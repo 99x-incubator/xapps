@@ -117,6 +117,7 @@
     <Content Include="app\modules\pluginModule\plugins\ccc\style.css" />
     <Content Include="app\modules\pluginModule\plugins\ccc\view.html" />
     <Content Include="app\modules\pluginModule\plugins\ccc\viewmodel.js" />
+    <Content Include="app\modules\pluginModule\plugins\csr\assets\csrlogo.png" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\assets\gm.png" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\component.js" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\config.js" />
@@ -124,10 +125,6 @@
     <Content Include="app\modules\pluginModule\plugins\geekmasters\style.css" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\view.html" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\viewmodel.js" />
-    <Content Include="app\modules\pluginModule\plugins\csr\assets\csr.png" />
-    <Content Include="app\modules\pluginModule\plugins\csr\assets\csr1.png" />
-    <Content Include="app\modules\pluginModule\plugins\csr\assets\csr2.png" />
-    <Content Include="app\modules\pluginModule\plugins\csr\assets\csr3.png" />
     <Content Include="app\modules\pluginModule\plugins\csr\component.js" />
     <Content Include="app\modules\pluginModule\plugins\csr\config.js" />
     <Content Include="app\modules\pluginModule\plugins\csr\icon.png" />
