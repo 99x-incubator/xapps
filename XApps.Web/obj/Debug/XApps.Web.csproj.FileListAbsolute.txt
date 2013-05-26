@@ -3,3 +3,8 @@ C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\XApps\XApps\X
 C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\XApps\XApps\XApps.Web\obj\Debug\XApps.Web.csprojResolveAssemblyReference.cache
 C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\XApps\XApps\XApps.Web\obj\Debug\XApps.Web.dll
 C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\XApps\XApps\XApps.Web\obj\Debug\XApps.Web.pdb
+C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\99x\xapps\XApps.Web\bin\XApps.Web.dll
+C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\99x\xapps\XApps.Web\bin\XApps.Web.pdb
+C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\99x\xapps\XApps.Web\obj\Debug\XApps.Web.csprojResolveAssemblyReference.cache
+C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\99x\xapps\XApps.Web\obj\Debug\XApps.Web.dll
+C:\Users\Tharaka Wijebandara\Documents\Visual Studio 2012\Projects\99x\xapps\XApps.Web\obj\Debug\XApps.Web.pdb

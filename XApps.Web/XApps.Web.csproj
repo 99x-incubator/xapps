@@ -108,6 +108,9 @@
     <Content Include="app\modules\pluginModule\plugins\blog\viewmodel.js" />
     <Content Include="app\modules\pluginModule\plugins\ccc\assets\ccc1.png" />
     <Content Include="app\modules\pluginModule\plugins\ccc\assets\ccc2.png" />
+    <Content Include="app\modules\pluginModule\plugins\ccc\assets\ccc3.png" />
+    <Content Include="app\modules\pluginModule\plugins\ccc\assets\ccc5.png" />
+    <Content Include="app\modules\pluginModule\plugins\ccc\assets\ccc6.png" />
     <Content Include="app\modules\pluginModule\plugins\ccc\component.js" />
     <Content Include="app\modules\pluginModule\plugins\ccc\config.js" />
     <Content Include="app\modules\pluginModule\plugins\ccc\icon.png" />

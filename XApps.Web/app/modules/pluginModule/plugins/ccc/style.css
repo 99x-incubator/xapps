@@ -85,5 +85,19 @@ background: url('./assets/ccc1.png') no-repeat;
 background: url('./assets/ccc2.png') no-repeat;
 }
 
+#ccc #content3 {
+background: url('./assets/ccc3.png') no-repeat;
+}
+
+
+#ccc #content4 {
+background: url('./assets/ccc5.png') no-repeat;
+}
+
+
+#ccc #content5 {
+background: url('./assets/ccc6.png') no-repeat;
+}
+
 
 
