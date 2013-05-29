@@ -282,6 +282,13 @@
     <Content Include="libs\bootmetro\scripts\modernizr-2.6.1.min.js" />
     <Content Include="libs\bootmetro\scripts\mustache.js" />
     <Content Include="libs\crossroads\crossroads.min.js" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\assets\port.png" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\component.js" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\config.js" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\icon.png" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\style.css" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\view.html" />
+    <Content Include="app\modules\pluginModule\plugins\dataport\viewmodel.js" />
     <Content Include="libs\flot\jquery.flot.min.js" />
     <Content Include="libs\flot\jquery.flot.resize.js" />
     <Content Include="libs\flot\hasher\hasher.min.js" />

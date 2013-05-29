@@ -1,0 +1,10 @@
+﻿#dataport #img {
+background: url('./assets/port.png') no-repeat;
+width: 280px;
+height: 100px;
+
+}
+
+#dataport .textover-wrapper {
+    /*margin-top:-10px;*/
+}
