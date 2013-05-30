@@ -7,14 +7,6 @@ body {
     background-color: transparent;
 }
 
-html { 
-  background: url('../img/bg4.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 #page-content {
     padding:0px;
     height:100%;
@@ -23,7 +15,7 @@ html {
 #header-bar {
     position:fixed;
     width:100%;
-    background-color:rgba(255, 255, 255, 0.8);
+    background-color:rgba(255, 255, 255, 1);
     z-index:2;
 }
 

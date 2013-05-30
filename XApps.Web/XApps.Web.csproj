@@ -253,7 +253,6 @@
     <Content Include="libs\bootmetro\content\ico\fav.ico" />
     <Content Include="app\modules\pluginModule\plugins\hris\assets\appbar.png" />
     <Content Include="app\modules\pluginModule\plugins\fix\assets\appbarfix.png" />
-    <Content Include="libs\bootmetro\content\img\bg4.jpg" />
     <Content Include="libs\bootmetro\content\img\explore_logo.png" />
     <Content Include="libs\bootmetro\content\img\menu\help.png" />
     <Content Include="libs\bootmetro\content\img\menu\close1.png" />
