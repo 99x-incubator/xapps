@@ -216,7 +216,6 @@
     <Content Include="app\modules\pluginModule\plugins\youtube\icon.png" />
     <Content Include="app\modules\pluginModule\settings.js" />
     <Content Include="app\modules\pluginModule\tileControls\component.js" />
-    <Content Include="app\modules\pluginModule\tileControls\style.css" />
     <Content Include="app\modules\pluginModule\tileControls\view.html" />
     <Content Include="app\modules\pluginModule\tileControls\viewmodel.js" />
     <Content Include="app\settings.js" />

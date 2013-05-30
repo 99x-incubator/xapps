@@ -18,6 +18,7 @@ define(function (require) {
             var offset = holder.hasClass("wide") ? -105 : -35;
             var helpButton = element.find('.menu-help');
             var tip = new Opentip(helpButton, description, { showOn: "click", fixed: true, tipJoint: "top", offset: [offset, 0], stemLength: 0, borderRadius: 0, background: "#fff", borderColor: "#000", borderWidth: 2, targetJoint: "bottom middle" });
+            bindOnHoverBehavior(holder);
         }        
         
         this.close = function () {
@@ -39,7 +40,6 @@ define(function (require) {
                         plugins.splice(index, 1);
                         localStorage.userPlugins = JSON.stringify(plugins);
                     }
-
                     self.holder.remove();
                 })
         }
@@ -48,14 +48,11 @@ define(function (require) {
             return false
         }
 
-        this.show = function () {
-            self.isShow(true);
+        //show tile controllers on mouse hover
+        function bindOnHoverBehavior(holder) {
+            holder.hover(function () { self.isShow(true); }, function () { self.isShow(false); })
         }
-
-        this.hide = function () {
-            self.isShow(false);
-        }
-
+        
     }   
   
 

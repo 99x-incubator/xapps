@@ -115,7 +115,6 @@ background-color: rgba(255,255, 255, 0.8) !important;
    float: left;
    margin: 5px;
    padding: 0;
-   /*padding-bottom: 1px;*/
    width: 135px; /*changed 150x150*/
    height: 135px;
    color: #FFF;
@@ -123,10 +122,15 @@ background-color: rgba(255,255, 255, 0.8) !important;
    overflow: hidden;
    text-decoration: none;
    background-color: #2C83EF;
-   /*opacity:0.8;*/
+
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
 }
    .metro .tile:hover {
-      outline: 3px #225a68 solid;
+      outline: 3px #5a5a5a solid;
    }
 
 
@@ -185,10 +189,11 @@ background-color: rgba(255,255, 255, 0.8) !important;
    height: 150px;
    padding: 0;*/ /*changed*/
 
-    width: 280px;
+   width: 280px;
    height: 135px;
    padding: 0;
 }
+
 /* template with normal 80x80 image */
 .metro .tile.wide.imagetext {
    width: 270px;
