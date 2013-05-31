@@ -5,7 +5,7 @@
 }
 
 #charms .charms-header {
-    padding: 40px 0 0px 0;
+    padding: 20px 0 0px 0;
 }
 
 #charms #apps-charm-section {
@@ -21,7 +21,7 @@
     border:none;
     background-color: #5a5a5a;
     height:490px;
-    margin-top:70px;
+    margin-top:40px;
 }
 
 #charms #apps-charm-section .mediumListIconTextItem {
