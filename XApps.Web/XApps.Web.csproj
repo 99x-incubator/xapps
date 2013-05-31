@@ -99,6 +99,13 @@
     <Content Include="app\modules\pluginModule\plugins\99x\style.css" />
     <Content Include="app\modules\pluginModule\plugins\99x\view.html" />
     <Content Include="app\modules\pluginModule\plugins\99x\viewmodel.js" />
+    <Content Include="app\modules\pluginModule\plugins\agile\assets\agile.png" />
+    <Content Include="app\modules\pluginModule\plugins\agile\component.js" />
+    <Content Include="app\modules\pluginModule\plugins\agile\config.js" />
+    <Content Include="app\modules\pluginModule\plugins\agile\icon.png" />
+    <Content Include="app\modules\pluginModule\plugins\agile\style.css" />
+    <Content Include="app\modules\pluginModule\plugins\agile\view.html" />
+    <Content Include="app\modules\pluginModule\plugins\agile\viewmodel.js" />
     <Content Include="app\modules\pluginModule\plugins\blog\assets\logo.png" />
     <Content Include="app\modules\pluginModule\plugins\blog\component.js" />
     <Content Include="app\modules\pluginModule\plugins\blog\config.js" />
