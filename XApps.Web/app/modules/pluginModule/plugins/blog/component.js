@@ -4,6 +4,7 @@
     var Boiler = require('Boiler'),
         template = require('text!./view.html'),
         stylePath = require('path!./style.css'),
+        ViewModel = require('./viewmodel'),
         config = require('./config');
 
     var Component = function (moduleContext) {
