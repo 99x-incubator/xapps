@@ -16,7 +16,7 @@
 }
 .bg-color-greenDark {
    /*background-color: #008641 !important;*/
-   background-color: #00611C !important; 
+   background-color: #319a46 !important; 
 }
 .bg-color-red {
    /*background-color: #e51400 !important;*/
@@ -122,6 +122,8 @@ background-color: rgba(255,255, 255, 0.8) !important;
    overflow: hidden;
    text-decoration: none;
    background-color: #2C83EF;
+
+   /*border:1px solid #5a5a5a;*/
 
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;

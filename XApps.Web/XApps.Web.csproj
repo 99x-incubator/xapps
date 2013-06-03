@@ -125,6 +125,7 @@
     <Content Include="app\modules\pluginModule\plugins\ccc\view.html" />
     <Content Include="app\modules\pluginModule\plugins\ccc\viewmodel.js" />
     <Content Include="app\modules\pluginModule\plugins\csr\assets\csrlogo.png" />
+    <Content Include="app\modules\pluginModule\plugins\fix\icon.png" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\assets\gm.png" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\component.js" />
     <Content Include="app\modules\pluginModule\plugins\geekmasters\config.js" />
@@ -151,6 +152,7 @@
     <Content Include="app\modules\pluginModule\plugins\facebook\style.css" />
     <Content Include="app\modules\pluginModule\plugins\facebook\view.html" />
     <Content Include="app\modules\pluginModule\plugins\facebook\viewmodel.js" />
+    <Content Include="app\modules\pluginModule\plugins\hris\icon.png" />
     <Content Include="app\modules\pluginModule\plugins\jira\assets\jira.png" />
     <Content Include="app\modules\pluginModule\plugins\jira\component.js" />
     <Content Include="app\modules\pluginModule\plugins\jira\config.js" />
