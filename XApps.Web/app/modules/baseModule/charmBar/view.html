@@ -1,8 +1,10 @@
 <div id="charms" class="win-ui-light slide fade" data-bind="css: {in: isOpen}">
     <div id="theme-charms-section" class="charms-section">
         <div class="charms-header">
-            <a href="#" class="close-charms win-backbutton icon-arrow-right-4" data-bind="click:toggleCharmBar"></a>
-            <h2 data-bind="text: openedSection, click: toggleCharmBar"></h2>
+            <div class="title" data-bind="click: toggleCharmBar">
+                <a href="#" class="close-charms win-backbutton icon-arrow-right-4"></a>
+                <h2 data-bind="text: openedSection"></h2>
+            </div>
         </div>
     </div>
 
