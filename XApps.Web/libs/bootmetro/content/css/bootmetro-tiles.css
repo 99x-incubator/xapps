@@ -125,11 +125,11 @@ background-color: rgba(255,255, 255, 0.8) !important;
 
    border:1px solid #5a5a5a;
 
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    -o-transition: all 0.2s ease-out;
-    -ms-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    transition: all 0.4s ease;
 }
    .metro .tile:hover {
       outline: 3px #5a5a5a solid;
