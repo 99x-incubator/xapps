@@ -25,7 +25,7 @@ define(function (require) {
             console.log("Close Called");
             moduleContext.notify("MESSAGE_BOX", {
                 title: "Remove '" + pluginName + "' widget?",
-                body: "Are you sure you want to remove '" + pluginName + "' widget from the dashboard?",
+                body: "<span style='font-size:15px'> Are you sure you want to remove '" + pluginName + "' widget from the dashboard?</span><br/><br/>If you want you can add this again from the Apps Menu.",
                 callback: self.confirmClose
             })
             return false
