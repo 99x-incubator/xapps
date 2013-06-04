@@ -57,12 +57,12 @@
 
 #ccc .textover-wrapper {
 position: absolute;
-opacity: 0.8;
+opacity: 0.95;
 bottom: 0;
 width: 240px;
 height: 38px;
 padding: 2px 20px;
-transition: height 0.5s, opacity 8s;
+transition: height 0.8s, opacity 8s;
 background-color: inherit;
 opacity: 0.5;
 margin-left:-10px;
@@ -71,8 +71,8 @@ margin-top:-10px;
 
 #ccc .textover-wrapper:hover {
 height: 75px;
-transition: height 0.5s, opacity 5s;
-opacity:0.95;
+transition: height 0.8s, opacity 5s;
+opacity:1;
 }
 
 

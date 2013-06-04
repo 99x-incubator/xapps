@@ -1,10 +1,10 @@
 ﻿#csr #img {
-background: url('./assets/csrlogo.png') no-repeat;
-width: 165px;
-height: 100px;
-
+background: url('./assets/csrnew.png') no-repeat;
+width: 125px;
+height: 135px;
+margin-left: 10px;
 }
 
 #csr .textover-wrapper {
-    margin-top:-10px;
+    margin-top:-46px;
 }
