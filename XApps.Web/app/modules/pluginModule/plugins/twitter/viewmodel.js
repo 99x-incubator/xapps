@@ -10,15 +10,17 @@
     function changeTile() {
         var firstPreview = $("#twitter .tile-dynamic").children(':first');
         var secondPreview = $("#twitter .tile-dynamic").children(':last');
-        secondPreview.children(".tweet-text").text(tweets[cursor].text);
-        secondPreview.children(".tweet-date").text(relative_time(tweets[cursor].created_at));
-        $("#twitter .button-retweet").attr('href', "http://twitter.com/intent/retweet?tweet_id=" + tweets[cursor].id_str);
-        $("#twitter .button-reply").attr('href', "http://twitter.com/intent/tweet?in_reply_to=" + tweets[cursor].id_str);
-        firstPreview.animate({ marginTop: '-135px' }, 1000, function () {
-            firstPreview.css("margin-top", "0");
-            firstPreview.insertAfter(secondPreview);
-        });
-        cursor = (cursor + 1) % 7;
+        if (tweets != null & tweets.length > 0) {
+            secondPreview.children(".tweet-text").text(tweets[cursor].text);
+            secondPreview.children(".tweet-date").text(relative_time(tweets[cursor].created_at));
+            $("#twitter .button-retweet").attr('href', "http://twitter.com/intent/retweet?tweet_id=" + tweets[cursor].id_str);
+            $("#twitter .button-reply").attr('href', "http://twitter.com/intent/tweet?in_reply_to=" + tweets[cursor].id_str);
+            firstPreview.animate({ marginTop: '-135px' }, 1000, function () {
+                firstPreview.css("margin-top", "0");
+                firstPreview.insertAfter(secondPreview);
+            });
+            cursor = (cursor + 1) % 7;
+        }
     }
 
     function fetchTweetes() {

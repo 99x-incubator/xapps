@@ -264,15 +264,6 @@
     <Content Include="libs\bootmetro\content\css\metro-ui-light.css" />
     <Content Include="libs\bootmetro\content\css\pic_livetile.css" />
     <Content Include="libs\bootmetro\content\font\IcoMoon.svg" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\IcoMoon.svg" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\index.html" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\license.txt" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\style.css" />
-    <Content Include="libs\bootmetro\content\font\LICENSE.txt" />
-    <Content Include="libs\bootmetro\content\font\opensans-bold-webfont.svg" />
-    <Content Include="libs\bootmetro\content\font\opensans-light-webfont.svg" />
-    <Content Include="libs\bootmetro\content\font\opensans-regular-webfont.svg" />
-    <Content Include="libs\bootmetro\content\font\opensans-semibold-webfont.svg" />
     <Content Include="libs\bootmetro\content\ico\apple-touch-icon-114-precomposed.png" />
     <Content Include="libs\bootmetro\content\ico\apple-touch-icon-144-precomposed.png" />
     <Content Include="libs\bootmetro\content\ico\apple-touch-icon-57-precomposed.png" />
@@ -405,21 +396,6 @@
     <Content Include="libs\bootmetro\content\font\IcoMoon.eot" />
     <Content Include="libs\bootmetro\content\font\IcoMoon.ttf" />
     <Content Include="libs\bootmetro\content\font\IcoMoon.woff" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\IcoMoon.eot" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\IcoMoon.ttf" />
-    <Content Include="libs\bootmetro\content\font\icomoon97172\IcoMoon.woff" />
-    <Content Include="libs\bootmetro\content\font\opensans-bold-webfont.eot" />
-    <Content Include="libs\bootmetro\content\font\opensans-bold-webfont.ttf" />
-    <Content Include="libs\bootmetro\content\font\opensans-bold-webfont.woff" />
-    <Content Include="libs\bootmetro\content\font\opensans-light-webfont.eot" />
-    <Content Include="libs\bootmetro\content\font\opensans-light-webfont.ttf" />
-    <Content Include="libs\bootmetro\content\font\opensans-light-webfont.woff" />
-    <Content Include="libs\bootmetro\content\font\opensans-regular-webfont.eot" />
-    <Content Include="libs\bootmetro\content\font\opensans-regular-webfont.ttf" />
-    <Content Include="libs\bootmetro\content\font\opensans-regular-webfont.woff" />
-    <Content Include="libs\bootmetro\content\font\opensans-semibold-webfont.eot" />
-    <Content Include="libs\bootmetro\content\font\opensans-semibold-webfont.ttf" />
-    <Content Include="libs\bootmetro\content\font\opensans-semibold-webfont.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
