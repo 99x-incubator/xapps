@@ -5,4 +5,4 @@
  "app/modules/pluginModule/plugins/yammer/component" ,"app/modules/pluginModule/plugins/dotitude/component",
  "app/modules/pluginModule/plugins/blog/component", "app/modules/pluginModule/plugins/dataport/component", 
   "app/modules/pluginModule/plugins/sports/component" , "app/modules/pluginModule/plugins/csr/component",
-  "app/modules/pluginModule/plugins/youtube/component" , "app/modules/pluginModule/plugins/agile/component" ]
+  "app/modules/pluginModule/plugins/youtube/component" ]
